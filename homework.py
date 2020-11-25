@@ -51,10 +51,6 @@ class Calculator:
         return amount
 
 
-def temp():
-    return 75.0
-
-
 class CashCalculator(Calculator):
 
     # USD_RATE = Rates().rates['USD']
